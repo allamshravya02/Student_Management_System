@@ -1,4 +1,4 @@
-****Student Management System****
+******Student Management System******
 
 A simple and user-friendly web-based Student Management System developed using HTML, CSS, and JavaScript. This project allows users to manage student records efficiently through features such as registration, login, adding students, viewing student details, updating records, and deleting records.
 
